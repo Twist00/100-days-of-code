@@ -9,3 +9,6 @@ Going to start coding tommorow and hopefully get some art going.
 
 ### Day 2: Sunday, November 20, 2018
 learned how navmesh works in unity and got started in a waypoint system.
+
+### Day 3: Sunday, November 21, 2018
+Unity failed on me after an hour . going to try again tomorrow 😕
