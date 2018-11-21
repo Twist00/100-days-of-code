@@ -7,3 +7,5 @@ Just started!
 setting up the project and hoping to learn lots of new things.
 Going to start coding tommorow and hopefully get some art going.
 
+### Day 2: Sunday, November 20, 2018
+learned how navmesh works in unity and got started in a waypoint system.
